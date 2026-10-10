@@ -1,0 +1,11 @@
+Bundle_No,rule,eligible_baskets,avg_B_revenue_PKR,current_conversion,Conservative (5%) – extra baskets,Conservative (5%) – revenue PKR,Moderate (10%) – extra baskets,Moderate (10%) – revenue PKR,Optimistic (20%) – extra baskets,Optimistic (20%) – revenue PKR
+1,Decoration  →  Stage & Backdrop,1586,181322.1,0.4,79.3,12940960.7,158.6,25881921.5,317.2,51763842.9
+2,Floral Design  →  Venue Styling,1335,155454.3,0.4,66.8,9338919.5,133.5,18677839.0,267.0,37355678.0
+3,Decoration  →  Venue Styling,1248,156857.0,0.5,62.4,8809091.2,124.8,17618182.4,249.6,35236364.8
+4,Lighting  →  DJ,2284,83350.7,0.3,114.2,8566785.6,228.4,17133571.3,456.8,34267142.5
+5,Decoration  →  Floral Design,1069,165778.9,0.6,53.4,7974795.9,106.9,15949591.9,213.8,31899183.7
+6,Catering  →  Invitation Cards,1585,78656.6,0.4,79.2,5610180.1,158.5,11220360.2,317.0,22440720.4
+7,Stage & Backdrop  →  Venue Styling,709,156028.1,0.5,35.4,4978076.5,70.9,9956153.0,141.8,19912306.0
+8,Photography  →  Videography,795,138716.5,0.7,39.8,4962583.1,79.5,9925166.2,159.0,19850332.5
+9,Stage & Backdrop  →  Floral Design,638,163714.5,0.5,31.9,4700243.2,63.8,9400486.4,127.6,18800972.8
+10,Floral Design  →  Lighting,850,110168.4,0.6,42.5,4213940.1,85.0,8427880.1,170.0,16855760.2
